@@ -33,7 +33,6 @@ resources = {
 
 is_off = False
 
-# asdwe
 def adjust_ingredients(selected_drink, drink_name):
     my_ing = selected_drink["ingredients"]
     if drink_name == "latte":
